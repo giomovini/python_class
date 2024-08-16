@@ -1,2 +1,3 @@
-# python_class
+# Classes about introduce of python
+
 Aulas sobre Python
